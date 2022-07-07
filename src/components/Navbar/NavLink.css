@@ -1,0 +1,10 @@
+.collapse .nav-item{
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(83, 199, 199);
+    
+}
+.navbar NavLink:hover {
+        color: #f00;
+      }

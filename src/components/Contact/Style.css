@@ -1,0 +1,22 @@
+.container{
+    padding-top: 1rem;
+}
+.row{
+    background-color: #fff;
+    padding-top: 1rem;
+}
+.contact img{
+    width: 300px;
+    height: 400px;
+}
+.contact h4{
+    color: rgb(45, 161, 161);
+}
+.contact h6{
+    text-align: left;
+}
+.contact{
+    text-align: left;
+    padding: 2rem;
+}
+
