@@ -12,7 +12,7 @@ function Contact() {
         <>
             <div className='container'>
                 <div className='row contact'>
-                    <div className='col-7'>
+                    <div className='col-md-7 col-sm-12'>
                         <h4>Contact Us</h4>
                         <div className='row'>
                             <div className='col-1'>
@@ -33,7 +33,7 @@ function Contact() {
                             <div className='col-11'>nickwairagade@gmail.com</div>
                         </div>
                     </div>
-                    <div className='col-5'>
+                    <div className='col-md-5 col-sm-12'>
                         <img src={me} alt="" />
                     </div>
                 </div>
