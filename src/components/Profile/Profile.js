@@ -72,7 +72,7 @@ const Profile = () => {
     <>
         <div className='container'>
             <div className='row'>
-                <div className='col-4 profile'>
+                <div className='col-md-4 col-sm-12 profile'>
                     <img src={profile} alt="" />
                     <div className='row contact'>
                         <h5>CONTACT </h5>
@@ -117,7 +117,7 @@ const Profile = () => {
                         </Card>
                     </div>
                 </div>
-                <div className='col-8'>
+                <div className='col-md-8 col-sm-12'>
                     <div className='col-12 name'>
                         <h4>Nikhil Wairagade</h4>
                         <h6>Software Developer</h6>
