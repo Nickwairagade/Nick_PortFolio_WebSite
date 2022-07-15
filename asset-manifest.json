@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nick_PortFolio_WebSite/static/css/main.b022773f.css",
-    "main.js": "/Nick_PortFolio_WebSite/static/js/main.36ee5901.js",
+    "main.css": "/Nick_PortFolio_WebSite/static/css/main.7a2597dc.css",
+    "main.js": "/Nick_PortFolio_WebSite/static/js/main.7664a959.js",
     "static/js/787.43ee9818.chunk.js": "/Nick_PortFolio_WebSite/static/js/787.43ee9818.chunk.js",
     "static/media/testimonials-04.jpg": "/Nick_PortFolio_WebSite/static/media/testimonials-04.ba3aa1d053f24ed56d01.jpg",
     "static/media/testimonials-03.jpg": "/Nick_PortFolio_WebSite/static/media/testimonials-03.fca4bd9843f8f2e146ca.jpg",
@@ -10,14 +10,13 @@
     "static/media/project-003.png": "/Nick_PortFolio_WebSite/static/media/project-003.cda259c4fdf8b8e0c666.png",
     "static/media/me-left.png": "/Nick_PortFolio_WebSite/static/media/me-left.9eb0fc2820c14ac4e266.png",
     "static/media/me-right.png": "/Nick_PortFolio_WebSite/static/media/me-right.662e15d82ecd46fe47be.png",
-    "static/media/contact-01.webp": "/Nick_PortFolio_WebSite/static/media/contact-01.ce8cf5f395863c1c4b7b.webp",
     "index.html": "/Nick_PortFolio_WebSite/index.html",
-    "main.b022773f.css.map": "/Nick_PortFolio_WebSite/static/css/main.b022773f.css.map",
-    "main.36ee5901.js.map": "/Nick_PortFolio_WebSite/static/js/main.36ee5901.js.map",
+    "main.7a2597dc.css.map": "/Nick_PortFolio_WebSite/static/css/main.7a2597dc.css.map",
+    "main.7664a959.js.map": "/Nick_PortFolio_WebSite/static/js/main.7664a959.js.map",
     "787.43ee9818.chunk.js.map": "/Nick_PortFolio_WebSite/static/js/787.43ee9818.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b022773f.css",
-    "static/js/main.36ee5901.js"
+    "static/css/main.7a2597dc.css",
+    "static/js/main.7664a959.js"
   ]
 }
