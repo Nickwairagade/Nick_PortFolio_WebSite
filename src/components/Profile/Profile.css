@@ -29,6 +29,9 @@
     background-color: rgb(26, 25, 25);
     padding: 1rem;
 }
+.container .info{
+    background-color: #fff;
+}
 .container .row{
     padding: 1rem;
 }
