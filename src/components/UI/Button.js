@@ -9,7 +9,7 @@ import { colors } from "../../Style";
 const Button = (props) => {
   return (
     <a
-      href="NikhilWairagade-Resume.pdf"
+      href=""
       style={{
         boxSizing: "border-box",
         padding: "10px 20px",
@@ -23,6 +23,7 @@ const Button = (props) => {
         fontSize: 12,
         letterSpacing: "1px",
       }}
+      download
     >
       {props.label}
     </a>
