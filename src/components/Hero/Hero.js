@@ -21,9 +21,9 @@ const Hero = (props) => {
               <Button label="Hire Me" />
             </div>
             <div className="mlr-10">
-              <div className="mlr-10">
-                <Button label="Download CV" inverse={true} onClick={downloadFile} />
-              </div>
+              <a href="NikhilWairagade-Resume.pdf" download="NikhilWairagade-Resume.pdf">
+                <Button label="Download CV" onClick={downloadFile} />
+              </a>
             </div>
           </div>
         </div>

@@ -27,8 +27,7 @@ const LatestProjects = (props) => {
             text="Latest Projects"
           />
           <div className="mtb-10 flexRow" style={{ justifyContent: "center" }}>
-            {/* <Button label="Portfolios" /> */}
-            <a href="/profile"><button>PROJECTS</button></a>
+            <Button label="Portfolios" />
           </div>
         </div>
         <div className="projectImgContainer">
