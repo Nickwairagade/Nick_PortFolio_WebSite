@@ -117,7 +117,7 @@ const Profile = () => {
                         </Card>
                     </div>
                 </div>
-                <div className='col-md-8 col-sm-12 info'>
+                <div className='col-md-8 col-sm-12'>
                     <div className='col-12 name'>
                         <h4>Nikhil Wairagade</h4>
                         <h6>Software Developer</h6>
