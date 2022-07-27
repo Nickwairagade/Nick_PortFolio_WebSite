@@ -20,11 +20,11 @@ const Footer = (props) => {
         </div>
         <div className="footerMenus mtb-10">
           <nav>
-            <a href="#">Home</a>
-            <a href="#">About</a>
-            <a href="#">Portfolios</a>
-            <a href="#">Blog</a>
-            <a href="#">Contact</a>
+            <a href="/">Home</a>
+            {/* <a href="#">About</a> */}
+            <a href="/profile">Portfolios</a>
+            {/* <a href="#">Blog</a> */}
+            <a href="/contact">Contact</a>
           </nav>
         </div>
         <div className="conversationContainer primaryBgColor mtb-10">

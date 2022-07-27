@@ -7,6 +7,12 @@
     align-items: center;
     border-radius: 20px;
 }
+.socialConnect span{
+    font-weight: bold;
+}
+.socialConnect a{
+    padding: 5px;
+}
 .socialConnect .socialLink{
     width: 25px;
     height: 25px;
