@@ -4,7 +4,7 @@ import MediumHeading from "../UI/MediumHeading";
 import Card from "../UI/Card/Card";
 import testimonialsLeft from "../../assets/images/testimonials-03.jpg";
 import testimonialsRight from "../../assets/images/testimonials-04.jpg";
-import profilePicture from "../../assets/images/testimonial-pic.jpg";
+import profilePicture from "../../assets/images/profile1.jpeg";
 
 import "./Style.css";
 

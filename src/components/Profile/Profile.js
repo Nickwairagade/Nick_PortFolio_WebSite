@@ -2,7 +2,7 @@ import React from 'react'
 import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import GitHubIcon from '@material-ui/icons/GitHub';
-import profile from "../../assets/images/profile.jpeg";
+import profile1 from "../../assets/images/profile1.jpeg";
 import './Profile.css'
 import { colors } from "../../Style";
 import Card from "../UI/Card/Card";
@@ -73,7 +73,7 @@ const Profile = () => {
         <div className='container'>
             <div className='row'>
                 <div className='col-md-4 col-sm-12 profile'>
-                    <img src={profile} alt="" />
+                    <img src={profile1} alt="" />
                     <div className='row contact'>
                         <h5>CONTACT </h5>
                         <div className='col-2'>
