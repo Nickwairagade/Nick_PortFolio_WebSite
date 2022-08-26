@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Nick_PortFolio_WebSite/static/css/main.2ddf0cf6.css",
-    "main.js": "/Nick_PortFolio_WebSite/static/js/main.d3dfcc49.js",
+    "main.css": "/Nick_PortFolio_WebSite/static/css/main.738f0789.css",
+    "main.js": "/Nick_PortFolio_WebSite/static/js/main.6f5f71f1.js",
     "static/js/787.43ee9818.chunk.js": "/Nick_PortFolio_WebSite/static/js/787.43ee9818.chunk.js",
     "static/media/testimonials-04.jpg": "/Nick_PortFolio_WebSite/static/media/testimonials-04.ba3aa1d053f24ed56d01.jpg",
     "static/media/testimonials-03.jpg": "/Nick_PortFolio_WebSite/static/media/testimonials-03.fca4bd9843f8f2e146ca.jpg",
+    "static/media/NikhilWairagade-Resume.pdf": "/Nick_PortFolio_WebSite/static/media/NikhilWairagade-Resume.d1f08761da11f497502f.pdf",
     "static/media/me-left1.png": "/Nick_PortFolio_WebSite/static/media/me-left1.f8342bbffe7d0b3df64e.png",
     "static/media/profile1.jpeg": "/Nick_PortFolio_WebSite/static/media/profile1.295d3be4dd7e990be09e.jpeg",
     "static/media/project-003.png": "/Nick_PortFolio_WebSite/static/media/project-003.cda259c4fdf8b8e0c666.png",
     "static/media/me-left.png": "/Nick_PortFolio_WebSite/static/media/me-left.9eb0fc2820c14ac4e266.png",
     "static/media/me-right.png": "/Nick_PortFolio_WebSite/static/media/me-right.662e15d82ecd46fe47be.png",
     "index.html": "/Nick_PortFolio_WebSite/index.html",
-    "main.2ddf0cf6.css.map": "/Nick_PortFolio_WebSite/static/css/main.2ddf0cf6.css.map",
-    "main.d3dfcc49.js.map": "/Nick_PortFolio_WebSite/static/js/main.d3dfcc49.js.map",
+    "main.738f0789.css.map": "/Nick_PortFolio_WebSite/static/css/main.738f0789.css.map",
+    "main.6f5f71f1.js.map": "/Nick_PortFolio_WebSite/static/js/main.6f5f71f1.js.map",
     "787.43ee9818.chunk.js.map": "/Nick_PortFolio_WebSite/static/js/787.43ee9818.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ddf0cf6.css",
-    "static/js/main.d3dfcc49.js"
+    "static/css/main.738f0789.css",
+    "static/js/main.6f5f71f1.js"
   ]
 }
