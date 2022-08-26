@@ -26,11 +26,11 @@ const Qualification = (props) => {
           <div
             style={{
               background: "#fff",
-              padding: "10px 10px",
+              padding: "12px 7px",
               boxSizing: "border-box",
               display: "flex",
               justifyContent: "center",
-              borderRadius: "20px",
+             
             }}
           >
             <div className="mlr-10">
