@@ -1,10 +1,10 @@
 import React from "react";
 import SmallHeading from "../UI/SmallHeading";
 import MediumHeading from "../UI/MediumHeading";
+import resume from "../../assets/files/NikhilWairagade-Resume.pdf";
 import Button from "../UI/Button";
 import Tile from "../UI/Tile";
 import me from "../../assets/images/me-left1.png";
-
 import "./Style.css";
 
 /**
@@ -37,7 +37,7 @@ const Qualification = (props) => {
               <Button label="Hire Me" />
             </div>
             <div className="mlr-10">
-              <Button label="Download CV" inverse={true} />
+              <a href={resume} download="NikhilWairagade-Resume.pdf" className="btn">Download CV</a>
             </div>
           </div>
         </div>

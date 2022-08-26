@@ -1,0 +1,14 @@
+.btn{
+    box-sizing: border-box;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color:transparent;
+    font-size: 12px;   
+    letter-spacing: 1px;
+    background-color: #fff;
+    color: rgb(50, 182, 142);
+    box-shadow: #6dba6d 0px 0px 10px 0px;
+    font-weight: bold;
+}
