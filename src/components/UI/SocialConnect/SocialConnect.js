@@ -16,7 +16,7 @@ const SocialConnect = (props) => {
   return (
     <div className="socialConnect" style={props.style}>
       <span className="textColor font-12">Follow me : </span>
-      <div class="social-container">
+      <div className="social-container">
         <div className="git">
           <a href="https://github.com/Nickwairagade" className="git social">
             <FontAwesomeIcon icon={faGit} size="2x" />

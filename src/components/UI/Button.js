@@ -9,7 +9,7 @@ import { colors } from "../../Style";
 const Button = (props) => {
   return (
     <a
-      href="./../../assets/files/NikhilWairagade.pdf"
+      href=""
       style={{
         boxSizing: "border-box",
         padding: "10px 20px",

@@ -1,5 +1,6 @@
 import React from "react";
 import me from "../../assets/images/me-right.png";
+import resume from "../../assets/files/NikhilWairagade-Resume.pdf";
 import Button from "../UI/Button";
 import "./Style.css";
 
@@ -22,7 +23,8 @@ const Hero = (props) => {
             </div>
             <div className="mlr-10">
               <div className="mlr-10">
-                <Button label="Download CV" inverse={true} onClick={downloadFile} />
+                {/* <Button label="Download CV" inverse={true} onClick={downloadFile} /> */}
+                <a href={resume} download="NikhilWairagade-Resume.pdf" className="btn">Download CV</a>
               </div>
             </div>
           </div>

@@ -8,9 +8,9 @@ import { colors } from "../../Style";
 import Card from "../UI/Card/Card";
 import Skill from "../UI/Skill/Skill";
 import Tile from "../UI/Tile";
-import Button from "../UI/Button";
-import { useLocation } from 'react-router-dom';
-import ProjectOne from '../ProjectInfo/ProjectOne';
+// import Button from "../UI/Button";
+// import { useLocation } from 'react-router-dom';
+// import ProjectOne from '../ProjectInfo/ProjectOne';
 
 const Profile = () => {
     const skills = [
@@ -63,11 +63,11 @@ const Profile = () => {
           pathColor: "#f88f01",
         },
       ];
-      let history = useLocation();
+    //   let history = useLocation();
 
-      const redirect = () => {
-        history.push('./ProjectOne')
-      }
+    //   const redirect = () => {
+    //     history.push('./ProjectOne')
+    //   }
   return (
     <>
         <div className='container'>
